@@ -10,7 +10,9 @@
     background: linear-gradient(to right, rgba(245, 245, 245, 0.8), rgba(245, 245, 245, 0.8)), url(./images/common-bg.svg);
 
 }
-
+html{
+    scroll-behavior: smooth;
+}
 .header {
     position: fixed;
     width: 100%;
