@@ -537,7 +537,8 @@ form {
 }
 input{
     box-shadow:5px 5px 10px rgba(0, 0, 0, 0.25), -3px -3px 15px rgba(0, 0, 0, 0.25);
-    padding:0 30px 0 40px;
+    padding:0 20px 0 20px;
+    font-size:1em;
 }
 .msgCon {
     width: 100%;
